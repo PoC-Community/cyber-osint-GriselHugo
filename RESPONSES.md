@@ -11,3 +11,8 @@ Lyon, France
 
 ### Step 4 :
 45.0342268,3.0913272
+
+### Step 5 :
+- device model : iPhone 13 Pro
+- date and time : 2025:12:04 13:25:25-05:00
+- country : Norvège
