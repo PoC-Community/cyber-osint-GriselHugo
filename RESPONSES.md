@@ -16,3 +16,9 @@ Lyon, France
 - device model : iPhone 13 Pro
 - date and time : 2025:12:04 13:25:25-05:00
 - country : Norvège
+
+## OSINT
+### Step 1 :
+Marty Makefile
+
+### Step 2 :
